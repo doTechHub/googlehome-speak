@@ -1,0 +1,23 @@
+{
+  "name": "googlehome-speak",
+  "version": "1.0.0",
+  "description": "<!-- TOC -->",
+  "main": "server_for_line.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doTechHub/googlehome-speak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doTechHub/googlehome-speak/issues"
+  },
+  "homepage": "https://github.com/doTechHub/googlehome-speak#readme",
+  "dependencies": {
+    "forever": "^0.15.3",
+    "google-home-notifier": "^1.2.0"
+  }
+}

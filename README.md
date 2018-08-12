@@ -160,3 +160,7 @@ https://ifttt.com/discover
 
 <img src="https://github.com/DaaasukeMurata/play_w_googlehome/raw/images/activity.png" width="300px">
 
+
+
+# Google HomeのIPをいちいち調べずに済ませる方法
+https://github.com/noelportugal/google-home-notifier#after-npm-install
