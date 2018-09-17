@@ -7,6 +7,6 @@
 # run
 `node {line|ifttt}_server_*.js`
 ※forever しても良い。
-※lineの場合は別途ngrokを起動すること
+※line版を起動した際にはメッセージに従ってngrokを起動すること。
 
 
